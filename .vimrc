@@ -4,7 +4,6 @@ syntax on
 set number relativenumber
 set shiftwidth=4
 set tabstop=4
-set expandtab
 set nowrap
 set showcmd
 set showmode
